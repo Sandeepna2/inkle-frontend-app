@@ -8,7 +8,52 @@ https://inkle-assignment-frontend-app.netlify.app/
 
 
 ## 🎥 Full Demo Video
-[🎬 Click here to watch the full demo](https://raw.githubusercontent.com/Sandeepna2/inkle-assignment-frontend-app/main/inkle_recording.webm)
+[🎬 Click here to watch the full demo](https://raw.githubusercontent.com/Sandeepna2/inkle-assignment-frontend-app/main/inkle_recording.webm) 
+
+## 🖼️ App Screenshots
+
+### 🟣 Table View
+<p>
+  <img width="600" alt="Table View" src="sandbox:/mnt/data/Screenshot (19).png" />
+  <br />
+  <b>Screenshot:</b> Main table showing entity, gender, request date, and country.
+</p>
+
+### 🟣 Edit Customer Modal
+<p>
+  <img width="600" alt="Edit Modal" src="sandbox:/mnt/data/Screenshot (20).png" />
+  <br />
+  <b>Screenshot:</b> Edit modal with pre-filled user values (Name + Country).
+</p>
+
+### 🟣 Country Dropdown
+<p>
+  <img width="600" alt="Country Dropdown" src="sandbox:/mnt/data/Screenshot (21).png" />
+  <br />
+  <b>Screenshot:</b> Country dropdown showing dynamic country list from API.
+</p>
+
+### 🟣 Updated Table After Edit
+<p>
+  <img width="600" alt="Updated Table" src="sandbox:/mnt/data/Screenshot (22).png" />
+  <br />
+  <b>Screenshot:</b> Table updated after editing the customer's country.
+</p>
+
+### 🟣 Large Dataset View
+<p>
+  <img width="600" alt="More Data View" src="sandbox:/mnt/data/Screenshot (17).png" />
+  <br />
+  <b>Screenshot:</b> Table view with multiple customer entries.
+</p>
+
+### 🟣 Country Filter Panel
+<p>
+  <img width="600" alt="Country Filter" src="sandbox:/mnt/data/Screenshot (18).png" />
+  <br />
+  <b>Screenshot:</b> Country filter menu allowing multi-select filter options.
+</p>
+
 
 ## 📌 Features
 ### ✔️ Fetch & Display Data
