@@ -1,76 +1,48 @@
 # Inkle Assignment — Frontend
 
-A frontend assignment built using **React + Vite** as part of Inkle’s interview task.The project includes a dynamic table using **@tanstack/react-table**, an edit modal, API integration, and a country selector.
-
----
+A frontend assignment built using **React + Vite** as part of Inkle’s interview task. This project includes a dynamic table using **@tanstack/react-table**, an edit modal, API integration, and a country selector — with a clean, responsive, pixel-perfect UI.
 
 ## 🚀 Live Demo
-
 🔗 **Project URL:**  
 https://inkle-assignment-frontend-app.netlify.app/
 
----
-
 ## 🎞 GIF Demo Preview
-
 ![App Demo GIF](https://raw.githubusercontent.com/Sandeepna2/inkle-assignment-frontend-app/main/inkle_demo.gif)
 
----
-
 ## 🎥 Full Demo Video
-
 [🎬 Click here to watch the full demo](https://raw.githubusercontent.com/Sandeepna2/inkle-assignment-frontend-app/main/inkle_recording.webm)
 
----
-
 ## 📌 Features
-
 ### ✔️ Fetch & Display Data
 - Loads tax data from MockAPI  
-- Uses **@tanstack/react-table** for a modern, flexible table UI  
+- Built using **@tanstack/react-table** for a powerful table UI  
 
 ### ✔️ Edit Modal
-- Edit **Name** and **Country**  
-- Country list fetched dynamically from API  
-- Modal shows pre-filled row values  
+- Edit **Name** and **Country**
+- Country list fetched dynamically from API
+- Modal shows existing row values
 
 ### ✔️ Update API (PUT Request)
 - Merges updated fields with existing record  
-- Sends PUT request to the backend  
-- UI refreshes after update  
+- Sends PUT request to backend  
+- Table updates instantly after save  
 
 ### ✔️ Pixel-Perfect UI
-- Matches the provided Figma design  
-- Responsive layout  
-- Smooth modal UX  
-
----
+- Matches provided Figma design  
+- Fully responsive  
+- Clean animations & smooth modal UX  
 
 ## 🛠️ Tech Stack
-
-- **React + Vite**  
-- **@tanstack/react-table**  
-- **CSS**  
-- **Axios**  
-- **MockAPI**  
-- **React Hooks**  
-
----
-
+- **React + Vite**
+- **@tanstack/react-table**
+- **Tailwind CSS**
+- **Axios**
+- **MockAPI**
+- **React Hooks (useState, useEffect)**
 
 ## 📂 Folder Structure
-inkle-assignment-frontend-app/
-│── public/
-│── src/
-│   ├── components/
-│   │   ├── Table.jsx
-│   │   ├── EditModal.jsx
-│   ├── services/
-│   │   ├── api.js
-│   ├── App.jsx
-│   ├── main.jsx
-│── package.json
-│── README.md
+<img width="265" height="322" alt="image" src="https://github.com/user-attachments/assets/e97e932e-4a0a-4f49-93ea-06027b38b034" />
+
 
 ## 🔗 API Endpoints
 ### ➤ Get all tax records
@@ -97,10 +69,7 @@ PUT https://685013d7e7c42cfd17974a33.mockapi.io/taxes/:id
 - Table updates immediately
 
 ## 🚀 Installation & Setup
-git clone https://github.com/Sandeepna2/inkle-assignment-frontend-app.git
-cd inkle-assignment-frontend-app
-npm install
-npm run dev
-
-Open the app at:
-http://localhost:5173
+- git clone https://github.com/Sandeepna2/inkle-assignment-frontend-app.git
+- cd inkle-assignment-frontend-app
+- npm install
+- npm run dev
