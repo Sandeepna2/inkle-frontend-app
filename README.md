@@ -6,8 +6,6 @@ A frontend assignment built using **React + Vite** as part of Inkle’s intervie
 🔗 **Project URL:**  
 https://inkle-assignment-frontend-app.netlify.app/
 
-## 🎞 GIF Demo Preview
-![App Demo GIF](https://raw.githubusercontent.com/Sandeepna2/inkle-assignment-frontend-app/main/inkle_demo.gif)
 
 ## 🎥 Full Demo Video
 [🎬 Click here to watch the full demo](https://raw.githubusercontent.com/Sandeepna2/inkle-assignment-frontend-app/main/inkle_recording.webm)
