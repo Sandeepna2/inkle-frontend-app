@@ -4,7 +4,7 @@ A frontend assignment built using **React + Vite** as part of Inkle’s intervie
 
 ## 🚀 Live Demo
 🔗 **Project URL:**    
-https://inkle-assignment-frontend-app.netlify.app/
+https://inkle-app.netlify.app/
 
 
 ## 🎥 Full Demo Video
