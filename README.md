@@ -101,7 +101,7 @@ PUT https://685013d7e7c42cfd17974a33.mockapi.io/taxes/:id
 - Modal opens with existing values
 - Country list loads from API
 - User edits data
-- Clicking Save sends PUT request
+- Clicking Save sends Put request
 - Table updates immediately
 
 ## 🚀 Installation & Setup
