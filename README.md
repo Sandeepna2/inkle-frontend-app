@@ -11,7 +11,7 @@ https://inkle-app.netlify.app/
 [🎬 Click here to watch the full demo](https://raw.githubusercontent.com/Sandeepna2/inkle-assignment-frontend-app/main/inkle_recording.webm) 
 
 
-## 🖼️ App Screenshots
+## 🖼️ App Screenshots 
 <table>
   <tr>
     <td>
