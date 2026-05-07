@@ -1,4 +1,4 @@
-# Inkle Assignment — Frontend
+# Frontend 
 
 A frontend assignment built using **React + Vite** as part of Inkle’s interview task. This project includes a dynamic table using **@tanstack/react-table**, an edit modal, API integration, and a country selector — with a clean, responsive, pixel-perfect UI.
 
